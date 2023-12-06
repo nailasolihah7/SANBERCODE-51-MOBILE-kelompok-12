@@ -1,0 +1,17 @@
+book-menu: '//*[@resource-id="com.example.myapplication:id/book"]'
+round-trip: '//*[@text="ROUND TRIP"]'
+spinner1: "id=com.example.myapplication:id/spinnerFrom"
+from-city: '//*[@resource-id="android:id/text1" and @text="Toronto"]'
+spinner2: "id=com.example.myapplication:id/spinnerFrom"
+to-city: '//*[@resource-id="android:id/text1" and @text="Ottawa"]'
+spinner3: "id=com.example.myapplication:id/spinnerClass"
+seat-class: '//*[@resource-id="android:id/text1" and @text="Economy"]'
+start-date: "id=com.example.myapplication:id/textStartDate"
+set-start-date: '//*[@content-desc="01 August 2019"]'
+OK-set-button: '//*[@resource-id="android:id/button1"]'
+end-date: "id=com.example.myapplication:id/textEndDate"
+set-end-date: '//*[@content-desc="02 August 2019"]'
+check-additional: '//*[@resource-id="com.example.myapplication:id/radioButtonFlight"]'
+book-button: '//*[@resource-id="com.example.myapplication:id/book_flight"]'
+set-price: '//*[@resource-id="com.example.myapplication:id/price2"]'
+confrim-button: '//*[@resource-id="com.example.myapplication:id/confirm_order"]'
