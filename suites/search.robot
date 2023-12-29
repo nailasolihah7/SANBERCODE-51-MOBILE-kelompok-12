@@ -22,7 +22,7 @@ Search Boking Number
     Input Flight Number in Serach Page      ${FLIGHT_NUMBER} 
     Click Search Button in Search Page
     
-Search Invalid Booking Number
+Invalid Search Booking Number
     Open Flight Application
     Click Sign In Button On Home Page
     loginPage.Input Username On Login Page    ${VALID_USERNAME}
