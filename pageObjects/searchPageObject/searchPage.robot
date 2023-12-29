@@ -2,8 +2,6 @@
 Resource         ../base/base.robot
 Variables        search-locators.yaml
 
-
-
 *** Keywords ***
 Input Username On Login Page
     [Arguments]    ${username}
